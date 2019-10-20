@@ -12,11 +12,15 @@ An emergency Application for Android users. Thanks to the contributor: Vijay(IT)
 # Sample Outputs
 Main Screen Showing Current Location
 ![image](https://user-images.githubusercontent.com/29236082/67164960-5c920800-f39d-11e9-8153-72cc6397e27d.png)
+
 Menu Navigation
 ![image](https://user-images.githubusercontent.com/29236082/67164965-6fa4d800-f39d-11e9-851d-6aa5b68a160a.png)
+
 Showing Current Location
 ![image](https://user-images.githubusercontent.com/29236082/67164970-73385f00-f39d-11e9-89c9-5adcfe68c82a.png)
+
 Emergency Call to Police
 ![image](https://user-images.githubusercontent.com/29236082/67164985-a7ac1b00-f39d-11e9-800f-1a668df5734e.png)
+
 Message to our parents and friends
 ![image](https://user-images.githubusercontent.com/29236082/67164993-bb578180-f39d-11e9-86c1-40d3982d5c22.png)
