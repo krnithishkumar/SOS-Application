@@ -21,4 +21,4 @@ An emergency Application for Android users. Thanks to the contributor: Vijay(IT)
 **Fig2:** Menu Navigation\
 **Fig3:** Showing Current Location\
 **Fig4:** Emergency Call to Police\
-**Fig5:** Message to our parents and friends\
+**Fig5:** Message to our parents and friends
