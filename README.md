@@ -10,7 +10,7 @@ An emergency Application for Android users. Thanks to the contributor: Vijay(IT)
   The app helps in the emergency and provides the instant update on the current user to their parents/ friends. When there is an emergency, by using the smartphone it will take some time like to open every app individually such as google maps, call app, messages app, video/ audio recorder app. Sometimes opening these apps will consume time, so if we integrate all the functionalities within one app with one action that will be more useful for many users do these kinds of operation very frequently. As the app provides the automation to the user, thus it will do automatically by making call to police, sending messages to our parents/ friends, to alert by sounds with the same app.
 	When there is some unknown situation what actually happening, the app provides the option to check out the location to google map API, also to play some alert sound, send message regarding our location and also to allow to take video for that situation within a single app to do all the operation instantly. The app will be more useful in the emergency and make to the user to feel safe with the app in their smartphone.
 # Sample Outputs
-	# Fig1: Main Screen Showing Current Location
+Main Screen Showing Current Location
 ![image](https://user-images.githubusercontent.com/29236082/67164960-5c920800-f39d-11e9-8153-72cc6397e27d.png)
 
 Menu Navigation
